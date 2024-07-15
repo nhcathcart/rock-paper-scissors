@@ -75,6 +75,6 @@ To achieve the requirements, we will build a React Application that stores game 
 
 Given more time here are some things I would work on next:
 
-1. Tighten up the styling and interactivity of the interface to make it more "delightful". This would include color coding players, adding animations and visual feedback for the user, as well as more basic css changes. 
+1. Tighten up the styling and interactivity of the interface to make it more "delightful". This could include color coding players, adding animations and visual feedback for the user, as well as more basic css changes. 
 2. Add a database layer so the user can save a game, and retrieve it from a different browser.
 3. Add functionality for a two person game where each player can play from a separate browser. This would include some kind of matchmaking service and a time limit for moves.
