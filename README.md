@@ -42,13 +42,13 @@ npm run test
 ## Thought-Process
 
 **Requirements**
-● Allow two players to enter their names
-● One of the players can also be the computer, i.e. player vs computer
-● Allow each to play a turn, one at a time, during which the player selects one of the option from rock, paper, scissors
-● During each turn notify who has won and increment the scores
-● In addition to implementing basic gameplay, the user must be able to save their game
-● You can choose to code the UI only or Backend only or both UI and Backend. However, timebox it to 3 hours and let us know how much you were able to achieve and what improvements you would have worked on if you had more time. We would like to read your documentation on this.
-● The goal is for players to play in the same browser.
+* Allow two players to enter their names
+* One of the players can also be the computer, i.e. player vs computer
+* Allow each to play a turn, one at a time, during which the player selects one of the option from rock, paper, scissors
+* During each turn notify who has won and increment the scores
+* In addition to implementing basic gameplay, the user must be able to save their game
+* You can choose to code the UI only or Backend only or both UI and Backend. However, timebox it to 3 hours and let us know how much you were able to achieve and what improvements you would have worked on if you had more time. We would like to read your documentation on this.
+* The goal is for players to play in the same browser.
 
 **My Thought Process**
 
