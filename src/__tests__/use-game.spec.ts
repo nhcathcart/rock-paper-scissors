@@ -141,7 +141,6 @@ describe("useGame hook", () => {
     act(() => {
       result.current.startGame();
     });
-    console.log("Game State : ", result.current.gameState)
     act(() => {
       result.current.play("rock");
     })
